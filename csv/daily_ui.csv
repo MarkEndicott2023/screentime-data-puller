@@ -1,0 +1,672 @@
+day,device,app,seconds,minutes,pulled_at
+2026-08-29,iPhone,All Usage,10380,173.0,2026-09-27T11:15:23
+2026-08-29,iPhone,"Discord - Talk, Play, Hang Out",9,0.1,2026-09-27T11:15:23
+2026-08-29,iPhone,Instagram,21,0.3,2026-09-27T11:15:23
+2026-08-29,iPhone,Messages,300,5.0,2026-09-27T11:15:23
+2026-08-29,iPhone,Messenger,1,0.0,2026-09-27T11:15:23
+2026-08-29,iPhone,YouTube,120,2.0,2026-09-27T11:15:23
+2026-08-30,iPhone,All Usage,9720,162.0,2026-09-27T11:15:23
+2026-08-30,iPhone,App Store,7,0.1,2026-09-27T11:15:23
+2026-08-30,iPhone,Camera,3,0.1,2026-09-27T11:15:23
+2026-08-30,iPhone,Chase Mobile®: Bank & Invest,660,11.0,2026-09-27T11:15:23
+2026-08-30,iPhone,Clock,0,0.0,2026-09-27T11:15:23
+2026-08-30,iPhone,"Discord - Talk, Play, Hang Out",420,7.0,2026-09-27T11:15:23
+2026-08-30,iPhone,Google,23,0.4,2026-09-27T11:15:23
+2026-08-30,iPhone,Google Calendar: Get Organized,10,0.2,2026-09-27T11:15:23
+2026-08-30,iPhone,Google Drive,120,2.0,2026-09-27T11:15:23
+2026-08-30,iPhone,Google Health (Fitbit),120,2.0,2026-09-27T11:15:23
+2026-08-30,iPhone,Hinge Dating App: Match & Date,6,0.1,2026-09-27T11:15:23
+2026-08-30,iPhone,Instagram,2580,43.0,2026-09-27T11:15:23
+2026-08-30,iPhone,LinkedIn: Community & Network,1,0.0,2026-09-27T11:15:23
+2026-08-30,iPhone,Mail,180,3.0,2026-09-27T11:15:23
+2026-08-30,iPhone,Messages,1080,18.0,2026-09-27T11:15:23
+2026-08-30,iPhone,Messenger,180,3.0,2026-09-27T11:15:23
+2026-08-30,iPhone,Phone,420,7.0,2026-09-27T11:15:23
+2026-08-30,iPhone,Photos,4,0.1,2026-09-27T11:15:23
+2026-08-30,iPhone,Telegram Messenger,660,11.0,2026-09-27T11:15:23
+2026-08-30,iPhone,Venmo,120,2.0,2026-09-27T11:15:23
+2026-08-30,iPhone,Wallet,40,0.7,2026-09-27T11:15:23
+2026-08-30,iPhone,YouTube,1140,19.0,2026-09-27T11:15:23
+2026-08-30,iPhone,YouTube Music,51,0.8,2026-09-27T11:15:23
+2026-08-30,iPhone,com.apple.LocalAuthenticationUIService,30,0.5,2026-09-27T11:15:23
+2026-08-30,iPhone,com.apple.ScreenshotServicesService,60,1.0,2026-09-27T11:15:23
+2026-08-31,iPhone,All Usage,6420,107.0,2026-09-27T11:15:23
+2026-08-31,iPhone,Bumble Dating App: Meet & Date,120,2.0,2026-09-27T11:15:23
+2026-08-31,iPhone,Clock,4,0.1,2026-09-27T11:15:23
+2026-08-31,iPhone,"Discord - Talk, Play, Hang Out",300,5.0,2026-09-27T11:15:23
+2026-08-31,iPhone,Google,300,5.0,2026-09-27T11:15:23
+2026-08-31,iPhone,Google Calendar: Get Organized,60,1.0,2026-09-27T11:15:23
+2026-08-31,iPhone,Google Drive,240,4.0,2026-09-27T11:15:23
+2026-08-31,iPhone,Google Health (Fitbit),58,1.0,2026-09-27T11:15:23
+2026-08-31,iPhone,Google Maps,50,0.8,2026-09-27T11:15:23
+2026-08-31,iPhone,Hinge Dating App: Match & Date,840,14.0,2026-09-27T11:15:23
+2026-08-31,iPhone,Instagram,960,16.0,2026-09-27T11:15:23
+2026-08-31,iPhone,LinkedIn: Community & Network,60,1.0,2026-09-27T11:15:23
+2026-08-31,iPhone,Messages,360,6.0,2026-09-27T11:15:23
+2026-08-31,iPhone,Messenger,300,5.0,2026-09-27T11:15:23
+2026-08-31,iPhone,Settings,36,0.6,2026-09-27T11:15:23
+2026-08-31,iPhone,Telegram Messenger,60,1.0,2026-09-27T11:15:23
+2026-08-31,iPhone,YouTube,360,6.0,2026-09-27T11:15:23
+2026-08-31,iPhone,YouTube Music,1560,26.0,2026-09-27T11:15:23
+2026-08-31,iPhone,com.apple.WebSheet,5,0.1,2026-09-27T11:15:23
+2026-09-01,iPhone,All Usage,9780,163.0,2026-09-27T11:15:23
+2026-09-01,iPhone,Bumble Dating App: Meet & Date,22,0.4,2026-09-27T11:15:23
+2026-09-01,iPhone,Calculator,9,0.1,2026-09-27T11:15:23
+2026-09-01,iPhone,Camera,60,1.0,2026-09-27T11:15:23
+2026-09-01,iPhone,Clock,6,0.1,2026-09-27T11:15:23
+2026-09-01,iPhone,"Discord - Talk, Play, Hang Out",2580,43.0,2026-09-27T11:15:23
+2026-09-01,iPhone,Google,300,5.0,2026-09-27T11:15:23
+2026-09-01,iPhone,Google Calendar: Get Organized,180,3.0,2026-09-27T11:15:23
+2026-09-01,iPhone,Google Maps,120,2.0,2026-09-27T11:15:23
+2026-09-01,iPhone,Google Tasks: Get Things Done,1,0.0,2026-09-27T11:15:23
+2026-09-01,iPhone,Hinge Dating App: Match & Date,23,0.4,2026-09-27T11:15:23
+2026-09-01,iPhone,Instagram,1440,24.0,2026-09-27T11:15:23
+2026-09-01,iPhone,LinkedIn: Community & Network,240,4.0,2026-09-27T11:15:23
+2026-09-01,iPhone,Mail,120,2.0,2026-09-27T11:15:23
+2026-09-01,iPhone,Messages,1980,33.0,2026-09-27T11:15:23
+2026-09-01,iPhone,Messenger,420,7.0,2026-09-27T11:15:23
+2026-09-01,iPhone,Slack,2,0.0,2026-09-27T11:15:23
+2026-09-01,iPhone,Telegram Messenger,960,16.0,2026-09-27T11:15:23
+2026-09-01,iPhone,Wallet,6,0.1,2026-09-27T11:15:23
+2026-09-01,iPhone,YouTube,300,5.0,2026-09-27T11:15:23
+2026-09-01,iPhone,com.apple.ScreenshotServicesService,41,0.7,2026-09-27T11:15:23
+2026-09-01,iPhone,com.apple.WebSheet,7,0.1,2026-09-27T11:15:23
+2026-09-02,iPhone,All Usage,13620,227.0,2026-09-27T11:15:23
+2026-09-02,iPhone,Amazon Shopping,480,8.0,2026-09-27T11:15:23
+2026-09-02,iPhone,Bumble Dating App: Meet & Date,46,0.8,2026-09-27T11:15:23
+2026-09-02,iPhone,Camera,1560,26.0,2026-09-27T11:15:23
+2026-09-02,iPhone,Clock,5,0.1,2026-09-27T11:15:23
+2026-09-02,iPhone,"Discord - Talk, Play, Hang Out",900,15.0,2026-09-27T11:15:23
+2026-09-02,iPhone,Google,540,9.0,2026-09-27T11:15:23
+2026-09-02,iPhone,Google Calendar: Get Organized,120,2.0,2026-09-27T11:15:23
+2026-09-02,iPhone,Google Health (Fitbit),120,2.0,2026-09-27T11:15:23
+2026-09-02,iPhone,Google Maps,180,3.0,2026-09-27T11:15:23
+2026-09-02,iPhone,Hinge Dating App: Match & Date,16,0.3,2026-09-27T11:15:23
+2026-09-02,iPhone,Instagram,660,11.0,2026-09-27T11:15:23
+2026-09-02,iPhone,Messages,4260,71.0,2026-09-27T11:15:23
+2026-09-02,iPhone,Messenger,8,0.1,2026-09-27T11:15:23
+2026-09-02,iPhone,Phone,13,0.2,2026-09-27T11:15:23
+2026-09-02,iPhone,Settings,1,0.0,2026-09-27T11:15:23
+2026-09-02,iPhone,Telegram Messenger,900,15.0,2026-09-27T11:15:23
+2026-09-02,iPhone,"Uber - Rides, Eats, Hotels",1140,19.0,2026-09-27T11:15:23
+2026-09-02,iPhone,YouTube,1080,18.0,2026-09-27T11:15:23
+2026-09-02,iPhone,YouTube Music,240,4.0,2026-09-27T11:15:23
+2026-09-02,iPhone,com.apple.AuthenticationServicesUI,2,0.0,2026-09-27T11:15:23
+2026-09-03,iPhone,All Usage,16680,278.0,2026-09-27T11:15:23
+2026-09-03,iPhone,Amazon Shopping,28,0.5,2026-09-27T11:15:23
+2026-09-03,iPhone,Camera,1980,33.0,2026-09-27T11:15:23
+2026-09-03,iPhone,Clock,840,14.0,2026-09-27T11:15:23
+2026-09-03,iPhone,"Discord - Talk, Play, Hang Out",420,7.0,2026-09-27T11:15:23
+2026-09-03,iPhone,Google,240,4.0,2026-09-27T11:15:23
+2026-09-03,iPhone,Google Calendar: Get Organized,12,0.2,2026-09-27T11:15:23
+2026-09-03,iPhone,Google Health (Fitbit),31,0.5,2026-09-27T11:15:23
+2026-09-03,iPhone,Instagram,1080,18.0,2026-09-27T11:15:23
+2026-09-03,iPhone,LinkedIn: Community & Network,11,0.2,2026-09-27T11:15:23
+2026-09-03,iPhone,Mail,60,1.0,2026-09-27T11:15:23
+2026-09-03,iPhone,Messages,1440,24.0,2026-09-27T11:15:23
+2026-09-03,iPhone,Messenger,1200,20.0,2026-09-27T11:15:23
+2026-09-03,iPhone,Safari,19,0.3,2026-09-27T11:15:23
+2026-09-03,iPhone,Settings,1,0.0,2026-09-27T11:15:23
+2026-09-03,iPhone,Telegram Messenger,1140,19.0,2026-09-27T11:15:23
+2026-09-03,iPhone,YouTube,3300,55.0,2026-09-27T11:15:23
+2026-09-03,iPhone,YouTube Music,720,12.0,2026-09-27T11:15:23
+2026-09-04,iPhone,All Usage,10020,167.0,2026-09-27T11:15:23
+2026-09-04,iPhone,Clock,16,0.3,2026-09-27T11:15:23
+2026-09-04,iPhone,"Discord - Talk, Play, Hang Out",180,3.0,2026-09-27T11:15:23
+2026-09-04,iPhone,Google,120,2.0,2026-09-27T11:15:23
+2026-09-04,iPhone,Google Calendar: Get Organized,16,0.3,2026-09-27T11:15:23
+2026-09-04,iPhone,Google Health (Fitbit),60,1.0,2026-09-27T11:15:23
+2026-09-04,iPhone,Hinge Dating App: Match & Date,32,0.5,2026-09-27T11:15:23
+2026-09-04,iPhone,Instagram,1080,18.0,2026-09-27T11:15:23
+2026-09-04,iPhone,LinkedIn: Community & Network,27,0.5,2026-09-27T11:15:23
+2026-09-04,iPhone,Mail,1,0.0,2026-09-27T11:15:23
+2026-09-04,iPhone,Messages,1020,17.0,2026-09-27T11:15:23
+2026-09-04,iPhone,Messenger,180,3.0,2026-09-27T11:15:23
+2026-09-04,iPhone,RENPHO Health,120,2.0,2026-09-27T11:15:23
+2026-09-04,iPhone,Shortcuts,1,0.0,2026-09-27T11:15:23
+2026-09-04,iPhone,Telegram Messenger,120,2.0,2026-09-27T11:15:23
+2026-09-04,iPhone,"Uber - Rides, Eats, Hotels",540,9.0,2026-09-27T11:15:23
+2026-09-04,iPhone,YouTube,1440,24.0,2026-09-27T11:15:23
+2026-09-04,iPhone,com.apple.WebSheet,20,0.3,2026-09-27T11:15:23
+2026-09-05,iPhone,All Usage,10980,183.0,2026-09-27T11:15:23
+2026-09-05,iPhone,Camera,2340,39.0,2026-09-27T11:15:23
+2026-09-05,iPhone,Claude by Anthropic,2520,42.0,2026-09-27T11:15:23
+2026-09-05,iPhone,"Discord - Talk, Play, Hang Out",30,0.5,2026-09-27T11:15:23
+2026-09-05,iPhone,Google,660,11.0,2026-09-27T11:15:23
+2026-09-05,iPhone,Google Calendar: Get Organized,5,0.1,2026-09-27T11:15:23
+2026-09-05,iPhone,Google Health (Fitbit),24,0.4,2026-09-27T11:15:23
+2026-09-05,iPhone,Hinge Dating App: Match & Date,60,1.0,2026-09-27T11:15:23
+2026-09-05,iPhone,Instagram,1140,19.0,2026-09-27T11:15:23
+2026-09-05,iPhone,Mail,50,0.8,2026-09-27T11:15:23
+2026-09-05,iPhone,Messages,21,0.3,2026-09-27T11:15:23
+2026-09-05,iPhone,Messenger,2220,37.0,2026-09-27T11:15:23
+2026-09-05,iPhone,Telegram Messenger,10,0.2,2026-09-27T11:15:23
+2026-09-05,iPhone,Wallet,59,1.0,2026-09-27T11:15:23
+2026-09-05,iPhone,YouTube,360,6.0,2026-09-27T11:15:23
+2026-09-06,iPhone,All Usage,9840,164.0,2026-09-27T11:15:23
+2026-09-06,iPhone,Amazon Shopping,240,4.0,2026-09-27T11:15:23
+2026-09-06,iPhone,Apple Fitness,1,0.0,2026-09-27T11:15:23
+2026-09-06,iPhone,Bumble Dating App: Meet & Date,60,1.0,2026-09-27T11:15:23
+2026-09-06,iPhone,Camera,300,5.0,2026-09-27T11:15:23
+2026-09-06,iPhone,Chase Mobile®: Bank & Invest,60,1.0,2026-09-27T11:15:23
+2026-09-06,iPhone,Claude by Anthropic,840,14.0,2026-09-27T11:15:23
+2026-09-06,iPhone,"Discord - Talk, Play, Hang Out",240,4.0,2026-09-27T11:15:23
+2026-09-06,iPhone,Google,120,2.0,2026-09-27T11:15:23
+2026-09-06,iPhone,Google Docs,1140,19.0,2026-09-27T11:15:23
+2026-09-06,iPhone,Google Drive,0,0.0,2026-09-27T11:15:23
+2026-09-06,iPhone,Google Health (Fitbit),120,2.0,2026-09-27T11:15:23
+2026-09-06,iPhone,Google Keep - Notes and lists,17,0.3,2026-09-27T11:15:23
+2026-09-06,iPhone,Google Photos: Backup & Edit,120,2.0,2026-09-27T11:15:23
+2026-09-06,iPhone,Hinge Dating App: Match & Date,540,9.0,2026-09-27T11:15:23
+2026-09-06,iPhone,Instagram,1620,27.0,2026-09-27T11:15:23
+2026-09-06,iPhone,Mail,3,0.1,2026-09-27T11:15:23
+2026-09-06,iPhone,Messages,2,0.0,2026-09-27T11:15:23
+2026-09-06,iPhone,Messenger,180,3.0,2026-09-27T11:15:23
+2026-09-06,iPhone,Photos,60,1.0,2026-09-27T11:15:23
+2026-09-06,iPhone,RENPHO Health,180,3.0,2026-09-27T11:15:23
+2026-09-06,iPhone,Slack,1,0.0,2026-09-27T11:15:23
+2026-09-06,iPhone,Telegram Messenger,60,1.0,2026-09-27T11:15:23
+2026-09-06,iPhone,Wallet,50,0.8,2026-09-27T11:15:23
+2026-09-06,iPhone,YouTube,1080,18.0,2026-09-27T11:15:23
+2026-09-06,iPhone,YouTube Music,2040,34.0,2026-09-27T11:15:23
+2026-09-06,iPhone,com.apple.LocalAuthenticationUIService,5,0.1,2026-09-27T11:15:23
+2026-09-06,iPhone,com.apple.PassbookUIService,15,0.2,2026-09-27T11:15:23
+2026-09-06,iPhone,when2meet.com,57,0.9,2026-09-27T11:15:23
+2026-09-07,iPhone,All Usage,12840,214.0,2026-09-27T11:15:23
+2026-09-07,iPhone,App Store,60,1.0,2026-09-27T11:15:23
+2026-09-07,iPhone,Bumble Dating App: Meet & Date,34,0.6,2026-09-27T11:15:23
+2026-09-07,iPhone,Camera,10,0.2,2026-09-27T11:15:23
+2026-09-07,iPhone,Chase Mobile®: Bank & Invest,120,2.0,2026-09-27T11:15:23
+2026-09-07,iPhone,Claude by Anthropic,3240,54.0,2026-09-27T11:15:23
+2026-09-07,iPhone,Contacts,52,0.9,2026-09-27T11:15:23
+2026-09-07,iPhone,"Discord - Talk, Play, Hang Out",480,8.0,2026-09-27T11:15:23
+2026-09-07,iPhone,Google,480,8.0,2026-09-27T11:15:23
+2026-09-07,iPhone,Google Calendar: Get Organized,17,0.3,2026-09-27T11:15:23
+2026-09-07,iPhone,Google Docs,25,0.4,2026-09-27T11:15:23
+2026-09-07,iPhone,Google Health (Fitbit),120,2.0,2026-09-27T11:15:23
+2026-09-07,iPhone,Hinge Dating App: Match & Date,1500,25.0,2026-09-27T11:15:23
+2026-09-07,iPhone,Instagram,1620,27.0,2026-09-27T11:15:23
+2026-09-07,iPhone,LinkedIn: Community & Network,1,0.0,2026-09-27T11:15:23
+2026-09-07,iPhone,Mail,120,2.0,2026-09-27T11:15:23
+2026-09-07,iPhone,Messages,240,4.0,2026-09-27T11:15:23
+2026-09-07,iPhone,Messenger,240,4.0,2026-09-27T11:15:23
+2026-09-07,iPhone,Telegram Messenger,120,2.0,2026-09-27T11:15:23
+2026-09-07,iPhone,"TikTok - Videos, Shop & LIVE",420,7.0,2026-09-27T11:15:23
+2026-09-07,iPhone,Venmo,60,1.0,2026-09-27T11:15:23
+2026-09-07,iPhone,Wallet,8,0.1,2026-09-27T11:15:23
+2026-09-07,iPhone,YouTube,1200,20.0,2026-09-27T11:15:23
+2026-09-07,iPhone,YouTube Music,1020,17.0,2026-09-27T11:15:23
+2026-09-07,iPhone,accounts.google.com,10,0.2,2026-09-27T11:15:23
+2026-09-07,iPhone,com.apple.AuthenticationServicesUI,3,0.1,2026-09-27T11:15:23
+2026-09-07,iPhone,com.apple.ContactsUI.LimitedAccessPromptView,29,0.5,2026-09-27T11:15:23
+2026-09-07,iPhone,com.apple.LocalAuthenticationUIService,6,0.1,2026-09-27T11:15:23
+2026-09-07,iPhone,com.apple.PassbookUIService,4,0.1,2026-09-27T11:15:23
+2026-09-07,iPhone,when2meet.com,120,2.0,2026-09-27T11:15:23
+2026-09-08,iPhone,All Usage,6780,113.0,2026-09-27T11:15:23
+2026-09-08,iPhone,App Store,120,2.0,2026-09-27T11:15:23
+2026-09-08,iPhone,Bumble Dating App: Meet & Date,41,0.7,2026-09-27T11:15:23
+2026-09-08,iPhone,Chase Mobile®: Bank & Invest,33,0.6,2026-09-27T11:15:23
+2026-09-08,iPhone,Claude by Anthropic,60,1.0,2026-09-27T11:15:23
+2026-09-08,iPhone,Clock,14,0.2,2026-09-27T11:15:23
+2026-09-08,iPhone,"Discord - Talk, Play, Hang Out",180,3.0,2026-09-27T11:15:23
+2026-09-08,iPhone,Google,540,9.0,2026-09-27T11:15:23
+2026-09-08,iPhone,Google Calendar: Get Organized,60,1.0,2026-09-27T11:15:23
+2026-09-08,iPhone,Google Health (Fitbit),57,0.9,2026-09-27T11:15:23
+2026-09-08,iPhone,Google Maps,120,2.0,2026-09-27T11:15:23
+2026-09-08,iPhone,Hinge Dating App: Match & Date,1500,25.0,2026-09-27T11:15:23
+2026-09-08,iPhone,Instagram,900,15.0,2026-09-27T11:15:23
+2026-09-08,iPhone,Mail,60,1.0,2026-09-27T11:15:23
+2026-09-08,iPhone,Messages,360,6.0,2026-09-27T11:15:23
+2026-09-08,iPhone,Messenger,480,8.0,2026-09-27T11:15:23
+2026-09-08,iPhone,Safari,43,0.7,2026-09-27T11:15:23
+2026-09-08,iPhone,Settings,57,0.9,2026-09-27T11:15:23
+2026-09-08,iPhone,Starbucks,300,5.0,2026-09-27T11:15:23
+2026-09-08,iPhone,Telegram Messenger,8,0.1,2026-09-27T11:15:23
+2026-09-08,iPhone,Venmo,10,0.2,2026-09-27T11:15:23
+2026-09-08,iPhone,Wallet,120,2.0,2026-09-27T11:15:23
+2026-09-08,iPhone,YouTube Music,240,4.0,2026-09-27T11:15:23
+2026-09-08,iPhone,com.apple.LocalAuthenticationUIService,21,0.3,2026-09-27T11:15:23
+2026-09-08,iPhone,com.apple.PassbookUIService,3,0.1,2026-09-27T11:15:23
+2026-09-08,iPhone,com.apple.WebSheet,30,0.5,2026-09-27T11:15:23
+2026-09-08,iPhone,starbucks.com,42,0.7,2026-09-27T11:15:23
+2026-09-09,iPhone,All Usage,17760,296.0,2026-09-27T11:15:23
+2026-09-09,iPhone,Bumble Dating App: Meet & Date,300,5.0,2026-09-27T11:15:23
+2026-09-09,iPhone,Camera,1260,21.0,2026-09-27T11:15:23
+2026-09-09,iPhone,Cash App,240,4.0,2026-09-27T11:15:23
+2026-09-09,iPhone,Chase Mobile®: Bank & Invest,60,1.0,2026-09-27T11:15:23
+2026-09-09,iPhone,Chime® – Mobile Banking,26,0.4,2026-09-27T11:15:23
+2026-09-09,iPhone,Claude by Anthropic,2340,39.0,2026-09-27T11:15:23
+2026-09-09,iPhone,Contacts,8,0.1,2026-09-27T11:15:23
+2026-09-09,iPhone,"Discord - Talk, Play, Hang Out",960,16.0,2026-09-27T11:15:23
+2026-09-09,iPhone,Google,780,13.0,2026-09-27T11:15:23
+2026-09-09,iPhone,Google Calendar: Get Organized,52,0.9,2026-09-27T11:15:23
+2026-09-09,iPhone,Google Health (Fitbit),120,2.0,2026-09-27T11:15:23
+2026-09-09,iPhone,Google Photos: Backup & Edit,960,16.0,2026-09-27T11:15:23
+2026-09-09,iPhone,Hinge Dating App: Match & Date,2580,43.0,2026-09-27T11:15:23
+2026-09-09,iPhone,Instagram,600,10.0,2026-09-27T11:15:23
+2026-09-09,iPhone,Mail,120,2.0,2026-09-27T11:15:23
+2026-09-09,iPhone,Messages,120,2.0,2026-09-27T11:15:23
+2026-09-09,iPhone,Messenger,9,0.1,2026-09-27T11:15:23
+2026-09-09,iPhone,Phone,22,0.4,2026-09-27T11:15:23
+2026-09-09,iPhone,Photos,600,10.0,2026-09-27T11:15:23
+2026-09-09,iPhone,Safari,120,2.0,2026-09-27T11:15:23
+2026-09-09,iPhone,Telegram Messenger,540,9.0,2026-09-27T11:15:23
+2026-09-09,iPhone,Tinder Dating App: Date & Chat,3180,53.0,2026-09-27T11:15:23
+2026-09-09,iPhone,Venmo,720,12.0,2026-09-27T11:15:23
+2026-09-09,iPhone,Wallet,120,2.0,2026-09-27T11:15:23
+2026-09-09,iPhone,YouTube,840,14.0,2026-09-27T11:15:23
+2026-09-09,iPhone,YouTube Music,36,0.6,2026-09-27T11:15:23
+2026-09-09,iPhone,accounts.google.com,7,0.1,2026-09-27T11:15:23
+2026-09-09,iPhone,com.apple.AuthKitUIService,9,0.1,2026-09-27T11:15:23
+2026-09-09,iPhone,com.apple.AuthenticationServicesUI,4,0.1,2026-09-27T11:15:23
+2026-09-09,iPhone,com.apple.ContactsUI.LimitedAccessPromptView,14,0.2,2026-09-27T11:15:23
+2026-09-09,iPhone,com.apple.LocalAuthenticationUIService,19,0.3,2026-09-27T11:15:23
+2026-09-09,iPhone,com.apple.PassbookUIService,49,0.8,2026-09-27T11:15:23
+2026-09-09,iPhone,com.apple.ScreenshotServicesService,42,0.7,2026-09-27T11:15:23
+2026-09-09,iPhone,myaccount.google.com,24,0.4,2026-09-27T11:15:23
+2026-09-09,iPhone,takeout.google.com,55,0.9,2026-09-27T11:15:23
+2026-09-10,iPhone,All Usage,14160,236.0,2026-09-27T11:15:23
+2026-09-10,iPhone,Bumble Dating App: Meet & Date,180,3.0,2026-09-27T11:15:23
+2026-09-10,iPhone,Calculator,5,0.1,2026-09-27T11:15:23
+2026-09-10,iPhone,Camera,360,6.0,2026-09-27T11:15:23
+2026-09-10,iPhone,Claude by Anthropic,1980,33.0,2026-09-27T11:15:23
+2026-09-10,iPhone,Clock,19,0.3,2026-09-27T11:15:23
+2026-09-10,iPhone,"Discord - Talk, Play, Hang Out",720,12.0,2026-09-27T11:15:23
+2026-09-10,iPhone,Google,60,1.0,2026-09-27T11:15:23
+2026-09-10,iPhone,Google Calendar: Get Organized,36,0.6,2026-09-27T11:15:23
+2026-09-10,iPhone,Google Health (Fitbit),14,0.2,2026-09-27T11:15:23
+2026-09-10,iPhone,Hinge Dating App: Match & Date,780,13.0,2026-09-27T11:15:23
+2026-09-10,iPhone,Instagram,3180,53.0,2026-09-27T11:15:23
+2026-09-10,iPhone,Mail,120,2.0,2026-09-27T11:15:23
+2026-09-10,iPhone,Messages,120,2.0,2026-09-27T11:15:23
+2026-09-10,iPhone,Messenger,360,6.0,2026-09-27T11:15:23
+2026-09-10,iPhone,Telegram Messenger,180,3.0,2026-09-27T11:15:23
+2026-09-10,iPhone,Tinder Dating App: Date & Chat,1080,18.0,2026-09-27T11:15:23
+2026-09-10,iPhone,Wallet,44,0.7,2026-09-27T11:15:23
+2026-09-10,iPhone,YouTube,1320,22.0,2026-09-27T11:15:23
+2026-09-10,iPhone,com.apple.BusinessActionSheet,1,0.0,2026-09-27T11:15:23
+2026-09-10,iPhone,com.apple.ScreenshotServicesService,10,0.2,2026-09-27T11:15:23
+2026-09-11,iPhone,All Usage,11520,192.0,2026-09-27T11:15:23
+2026-09-11,iPhone,Bumble Dating App: Meet & Date,300,5.0,2026-09-27T11:15:23
+2026-09-11,iPhone,Camera,1740,29.0,2026-09-27T11:15:23
+2026-09-11,iPhone,Chase Mobile®: Bank & Invest,40,0.7,2026-09-27T11:15:23
+2026-09-11,iPhone,Claude by Anthropic,1380,23.0,2026-09-27T11:15:23
+2026-09-11,iPhone,"Discord - Talk, Play, Hang Out",300,5.0,2026-09-27T11:15:23
+2026-09-11,iPhone,Google,420,7.0,2026-09-27T11:15:23
+2026-09-11,iPhone,Google Calendar: Get Organized,26,0.4,2026-09-27T11:15:23
+2026-09-11,iPhone,Google Maps,26,0.4,2026-09-27T11:15:23
+2026-09-11,iPhone,GroupMe,120,2.0,2026-09-27T11:15:23
+2026-09-11,iPhone,Hinge Dating App: Match & Date,780,13.0,2026-09-27T11:15:23
+2026-09-11,iPhone,Instagram,1740,29.0,2026-09-27T11:15:23
+2026-09-11,iPhone,Mail,28,0.5,2026-09-27T11:15:23
+2026-09-11,iPhone,Messages,300,5.0,2026-09-27T11:15:23
+2026-09-11,iPhone,Messenger,2,0.0,2026-09-27T11:15:23
+2026-09-11,iPhone,Phone,2,0.0,2026-09-27T11:15:23
+2026-09-11,iPhone,Telegram Messenger,120,2.0,2026-09-27T11:15:23
+2026-09-11,iPhone,Tinder Dating App: Date & Chat,1680,28.0,2026-09-27T11:15:23
+2026-09-11,iPhone,Venmo,32,0.5,2026-09-27T11:15:23
+2026-09-11,iPhone,YouTube,900,15.0,2026-09-27T11:15:23
+2026-09-11,iPhone,YouTube Music,720,12.0,2026-09-27T11:15:23
+2026-09-11,iPhone,accounts.google.com,5,0.1,2026-09-27T11:15:23
+2026-09-11,iPhone,com.apple.ContactsUI.LimitedAccessPromptView,9,0.1,2026-09-27T11:15:23
+2026-09-11,iPhone,com.apple.LocalAuthenticationUIService,5,0.1,2026-09-27T11:15:23
+2026-09-11,iPhone,com.apple.PassbookUIService,3,0.1,2026-09-27T11:15:23
+2026-09-12,iPhone,All Usage,9240,154.0,2026-09-27T11:15:23
+2026-09-12,iPhone,Amazon Shopping,12,0.2,2026-09-27T11:15:23
+2026-09-12,iPhone,Bumble Dating App: Meet & Date,38,0.6,2026-09-27T11:15:23
+2026-09-12,iPhone,Claude by Anthropic,1620,27.0,2026-09-27T11:15:23
+2026-09-12,iPhone,"Discord - Talk, Play, Hang Out",420,7.0,2026-09-27T11:15:23
+2026-09-12,iPhone,Google,46,0.8,2026-09-27T11:15:23
+2026-09-12,iPhone,Google Calendar: Get Organized,19,0.3,2026-09-27T11:15:23
+2026-09-12,iPhone,Google Health (Fitbit),120,2.0,2026-09-27T11:15:23
+2026-09-12,iPhone,GroupMe,49,0.8,2026-09-27T11:15:23
+2026-09-12,iPhone,Hinge Dating App: Match & Date,1200,20.0,2026-09-27T11:15:23
+2026-09-12,iPhone,IMDb: Movies & TV Shows,660,11.0,2026-09-27T11:15:23
+2026-09-12,iPhone,Instagram,660,11.0,2026-09-27T11:15:23
+2026-09-12,iPhone,Mail,14,0.2,2026-09-27T11:15:23
+2026-09-12,iPhone,Messages,6,0.1,2026-09-27T11:15:23
+2026-09-12,iPhone,Messenger,22,0.4,2026-09-27T11:15:23
+2026-09-12,iPhone,RENPHO Health,60,1.0,2026-09-27T11:15:23
+2026-09-12,iPhone,Settings,60,1.0,2026-09-27T11:15:23
+2026-09-12,iPhone,Snapchat,45,0.8,2026-09-27T11:15:23
+2026-09-12,iPhone,Telegram Messenger,35,0.6,2026-09-27T11:15:23
+2026-09-12,iPhone,"TikTok - Videos, Shop & LIVE",41,0.7,2026-09-27T11:15:23
+2026-09-12,iPhone,Tinder Dating App: Date & Chat,180,3.0,2026-09-27T11:15:23
+2026-09-12,iPhone,Venmo,60,1.0,2026-09-27T11:15:23
+2026-09-12,iPhone,Wallet,17,0.3,2026-09-27T11:15:23
+2026-09-12,iPhone,YouTube,3120,52.0,2026-09-27T11:15:23
+2026-09-12,iPhone,com.apple.PassbookUIService,3,0.1,2026-09-27T11:15:23
+2026-09-13,iPhone,All Usage,6960,116.0,2026-09-27T11:15:23
+2026-09-13,iPhone,App Store,34,0.6,2026-09-27T11:15:23
+2026-09-13,iPhone,Bumble Dating App: Meet & Date,60,1.0,2026-09-27T11:15:23
+2026-09-13,iPhone,Camera,27,0.5,2026-09-27T11:15:23
+2026-09-13,iPhone,Claude by Anthropic,420,7.0,2026-09-27T11:15:23
+2026-09-13,iPhone,"Discord - Talk, Play, Hang Out",240,4.0,2026-09-27T11:15:23
+2026-09-13,iPhone,Google,240,4.0,2026-09-27T11:15:23
+2026-09-13,iPhone,Google Health (Fitbit),180,3.0,2026-09-27T11:15:23
+2026-09-13,iPhone,GroupMe,11,0.2,2026-09-27T11:15:23
+2026-09-13,iPhone,Hinge Dating App: Match & Date,2280,38.0,2026-09-27T11:15:23
+2026-09-13,iPhone,IMDb: Movies & TV Shows,120,2.0,2026-09-27T11:15:23
+2026-09-13,iPhone,Instagram,540,9.0,2026-09-27T11:15:23
+2026-09-13,iPhone,Messages,9,0.1,2026-09-27T11:15:23
+2026-09-13,iPhone,Messenger,1,0.0,2026-09-27T11:15:23
+2026-09-13,iPhone,Phone,1,0.0,2026-09-27T11:15:23
+2026-09-13,iPhone,Tinder Dating App: Date & Chat,1020,17.0,2026-09-27T11:15:23
+2026-09-13,iPhone,Wallet,21,0.3,2026-09-27T11:15:23
+2026-09-13,iPhone,YouTube,240,4.0,2026-09-27T11:15:23
+2026-09-13,iPhone,YouTube Music,960,16.0,2026-09-27T11:15:23
+2026-09-13,iPhone,swipestats.io,5,0.1,2026-09-27T11:15:23
+2026-09-14,iPhone,All Usage,9060,151.0,2026-09-27T11:15:23
+2026-09-14,iPhone,Amazon Shopping,120,2.0,2026-09-27T11:15:23
+2026-09-14,iPhone,Bumble Dating App: Meet & Date,21,0.3,2026-09-27T11:15:23
+2026-09-14,iPhone,Claude by Anthropic,300,5.0,2026-09-27T11:15:23
+2026-09-14,iPhone,"Discord - Talk, Play, Hang Out",420,7.0,2026-09-27T11:15:23
+2026-09-14,iPhone,Google,1620,27.0,2026-09-27T11:15:23
+2026-09-14,iPhone,Google Calendar: Get Organized,120,2.0,2026-09-27T11:15:23
+2026-09-14,iPhone,Google Health (Fitbit),120,2.0,2026-09-27T11:15:23
+2026-09-14,iPhone,GroupMe,180,3.0,2026-09-27T11:15:23
+2026-09-14,iPhone,Hinge Dating App: Match & Date,1860,31.0,2026-09-27T11:15:23
+2026-09-14,iPhone,IMDb: Movies & TV Shows,840,14.0,2026-09-27T11:15:23
+2026-09-14,iPhone,Instagram,660,11.0,2026-09-27T11:15:23
+2026-09-14,iPhone,Mail,120,2.0,2026-09-27T11:15:23
+2026-09-14,iPhone,Messages,780,13.0,2026-09-27T11:15:23
+2026-09-14,iPhone,Phone,18,0.3,2026-09-27T11:15:23
+2026-09-14,iPhone,Safari,14,0.2,2026-09-27T11:15:23
+2026-09-14,iPhone,Tinder Dating App: Date & Chat,180,3.0,2026-09-27T11:15:23
+2026-09-14,iPhone,Venmo,26,0.4,2026-09-27T11:15:23
+2026-09-14,iPhone,Wallet,30,0.5,2026-09-27T11:15:23
+2026-09-14,iPhone,YouTube,960,16.0,2026-09-27T11:15:23
+2026-09-14,iPhone,com.apple.AuthKitUIService,3,0.1,2026-09-27T11:15:23
+2026-09-14,iPhone,com.apple.LocalAuthenticationUIService,5,0.1,2026-09-27T11:15:23
+2026-09-14,iPhone,com.apple.PassbookUIService,21,0.3,2026-09-27T11:15:23
+2026-09-14,iPhone,tv.apple.com,6,0.1,2026-09-27T11:15:23
+2026-09-15,iPhone,All Usage,11640,194.0,2026-09-27T11:15:23
+2026-09-15,iPhone,Bumble Dating App: Meet & Date,60,1.0,2026-09-27T11:15:23
+2026-09-15,iPhone,Camera,360,6.0,2026-09-27T11:15:23
+2026-09-15,iPhone,"Discord - Talk, Play, Hang Out",1080,18.0,2026-09-27T11:15:23
+2026-09-15,iPhone,Google,900,15.0,2026-09-27T11:15:23
+2026-09-15,iPhone,Google Calendar: Get Organized,19,0.3,2026-09-27T11:15:23
+2026-09-15,iPhone,Google Health (Fitbit),60,1.0,2026-09-27T11:15:23
+2026-09-15,iPhone,Google Maps,27,0.5,2026-09-27T11:15:23
+2026-09-15,iPhone,GroupMe,120,2.0,2026-09-27T11:15:23
+2026-09-15,iPhone,Hinge Dating App: Match & Date,2220,37.0,2026-09-27T11:15:23
+2026-09-15,iPhone,Instagram,2100,35.0,2026-09-27T11:15:23
+2026-09-15,iPhone,Mail,44,0.7,2026-09-27T11:15:23
+2026-09-15,iPhone,Messages,660,11.0,2026-09-27T11:15:23
+2026-09-15,iPhone,Messenger,31,0.5,2026-09-27T11:15:23
+2026-09-15,iPhone,Safari,45,0.8,2026-09-27T11:15:23
+2026-09-15,iPhone,Telegram Messenger,49,0.8,2026-09-27T11:15:23
+2026-09-15,iPhone,Tinder Dating App: Date & Chat,300,5.0,2026-09-27T11:15:23
+2026-09-15,iPhone,"Uber - Rides, Eats, Hotels",17,0.3,2026-09-27T11:15:23
+2026-09-15,iPhone,Wallet,13,0.2,2026-09-27T11:15:23
+2026-09-15,iPhone,YouTube,180,3.0,2026-09-27T11:15:23
+2026-09-15,iPhone,com.apple.ScreenshotServicesService,43,0.7,2026-09-27T11:15:23
+2026-09-15,iPhone,whartoncenter.evenue.net,12,0.2,2026-09-27T11:15:23
+2026-09-16,iPhone,All Usage,7680,128.0,2026-09-27T11:15:23
+2026-09-16,iPhone,Bumble Dating App: Meet & Date,120,2.0,2026-09-27T11:15:23
+2026-09-16,iPhone,Camera,18,0.3,2026-09-27T11:15:23
+2026-09-16,iPhone,"Discord - Talk, Play, Hang Out",60,1.0,2026-09-27T11:15:23
+2026-09-16,iPhone,Google,420,7.0,2026-09-27T11:15:23
+2026-09-16,iPhone,Google Drive,240,4.0,2026-09-27T11:15:23
+2026-09-16,iPhone,Google Health (Fitbit),60,1.0,2026-09-27T11:15:23
+2026-09-16,iPhone,GroupMe,300,5.0,2026-09-27T11:15:23
+2026-09-16,iPhone,Hinge Dating App: Match & Date,60,1.0,2026-09-27T11:15:23
+2026-09-16,iPhone,Instagram,780,13.0,2026-09-27T11:15:23
+2026-09-16,iPhone,LinkedIn: Community & Network,40,0.7,2026-09-27T11:15:23
+2026-09-16,iPhone,Mail,21,0.3,2026-09-27T11:15:23
+2026-09-16,iPhone,Messages,42,0.7,2026-09-27T11:15:23
+2026-09-16,iPhone,Messenger,300,5.0,2026-09-27T11:15:23
+2026-09-16,iPhone,Safari,300,5.0,2026-09-27T11:15:23
+2026-09-16,iPhone,Telegram Messenger,120,2.0,2026-09-27T11:15:23
+2026-09-16,iPhone,Tinder Dating App: Date & Chat,180,3.0,2026-09-27T11:15:23
+2026-09-16,iPhone,YouTube,2100,35.0,2026-09-27T11:15:23
+2026-09-16,iPhone,accounts.google.com,6,0.1,2026-09-27T11:15:23
+2026-09-16,iPhone,qrcodecreator.com,4,0.1,2026-09-27T11:15:23
+2026-09-16,iPhone,qrto.org,15,0.2,2026-09-27T11:15:23
+2026-09-17,iPhone,All Usage,11100,185.0,2026-09-27T11:15:23
+2026-09-17,iPhone,Bumble Dating App: Meet & Date,120,2.0,2026-09-27T11:15:23
+2026-09-17,iPhone,Camera,120,2.0,2026-09-27T11:15:23
+2026-09-17,iPhone,Clock,720,12.0,2026-09-27T11:15:23
+2026-09-17,iPhone,"Discord - Talk, Play, Hang Out",120,2.0,2026-09-27T11:15:23
+2026-09-17,iPhone,Google,660,11.0,2026-09-27T11:15:23
+2026-09-17,iPhone,Google Calendar: Get Organized,6,0.1,2026-09-27T11:15:23
+2026-09-17,iPhone,Google Health (Fitbit),120,2.0,2026-09-27T11:15:23
+2026-09-17,iPhone,Google Keep - Notes and lists,1,0.0,2026-09-27T11:15:23
+2026-09-17,iPhone,GroupMe,25,0.4,2026-09-27T11:15:23
+2026-09-17,iPhone,Hinge Dating App: Match & Date,1320,22.0,2026-09-27T11:15:23
+2026-09-17,iPhone,IMDb: Movies & TV Shows,1,0.0,2026-09-27T11:15:23
+2026-09-17,iPhone,Instagram,660,11.0,2026-09-27T11:15:23
+2026-09-17,iPhone,LinkedIn: Community & Network,60,1.0,2026-09-27T11:15:23
+2026-09-17,iPhone,Mail,120,2.0,2026-09-27T11:15:23
+2026-09-17,iPhone,Messages,2220,37.0,2026-09-27T11:15:23
+2026-09-17,iPhone,Messenger,300,5.0,2026-09-27T11:15:23
+2026-09-17,iPhone,Safari,600,10.0,2026-09-27T11:15:23
+2026-09-17,iPhone,Telegram Messenger,33,0.6,2026-09-27T11:15:23
+2026-09-17,iPhone,Tinder Dating App: Date & Chat,180,3.0,2026-09-27T11:15:23
+2026-09-17,iPhone,YouTube,1680,28.0,2026-09-27T11:15:23
+2026-09-17,iPhone,YouTube Music,1080,18.0,2026-09-27T11:15:23
+2026-09-17,iPhone,mesapowersolutions.com,60,1.0,2026-09-27T11:15:23
+2026-09-17,iPhone,paycomonline.net,480,8.0,2026-09-27T11:15:23
+2026-09-18,iPhone,All Usage,6120,102.0,2026-09-27T11:15:23
+2026-09-18,iPhone,Amazon Shopping,120,2.0,2026-09-27T11:15:23
+2026-09-18,iPhone,Camera,180,3.0,2026-09-27T11:15:23
+2026-09-18,iPhone,"Discord - Talk, Play, Hang Out",540,9.0,2026-09-27T11:15:23
+2026-09-18,iPhone,Google,120,2.0,2026-09-27T11:15:23
+2026-09-18,iPhone,Google Calendar: Get Organized,36,0.6,2026-09-27T11:15:23
+2026-09-18,iPhone,Google Health (Fitbit),60,1.0,2026-09-27T11:15:23
+2026-09-18,iPhone,Google Photos: Backup & Edit,53,0.9,2026-09-27T11:15:23
+2026-09-18,iPhone,GroupMe,22,0.4,2026-09-27T11:15:23
+2026-09-18,iPhone,Hinge Dating App: Match & Date,660,11.0,2026-09-27T11:15:23
+2026-09-18,iPhone,Instagram,1260,21.0,2026-09-27T11:15:23
+2026-09-18,iPhone,LinkedIn: Community & Network,120,2.0,2026-09-27T11:15:23
+2026-09-18,iPhone,Mail,120,2.0,2026-09-27T11:15:23
+2026-09-18,iPhone,Messages,5,0.1,2026-09-27T11:15:23
+2026-09-18,iPhone,Messenger,120,2.0,2026-09-27T11:15:23
+2026-09-18,iPhone,Photos,120,2.0,2026-09-27T11:15:23
+2026-09-18,iPhone,Telegram Messenger,60,1.0,2026-09-27T11:15:23
+2026-09-18,iPhone,Tinder Dating App: Date & Chat,420,7.0,2026-09-27T11:15:23
+2026-09-18,iPhone,YouTube,1440,24.0,2026-09-27T11:15:23
+2026-09-19,iPhone,All Usage,6540,109.0,2026-09-27T11:15:23
+2026-09-19,iPhone,Bumble Dating App: Meet & Date,41,0.7,2026-09-27T11:15:23
+2026-09-19,iPhone,Camera,18,0.3,2026-09-27T11:15:23
+2026-09-19,iPhone,Clock,16,0.3,2026-09-27T11:15:23
+2026-09-19,iPhone,"Discord - Talk, Play, Hang Out",300,5.0,2026-09-27T11:15:23
+2026-09-19,iPhone,Google,18,0.3,2026-09-27T11:15:23
+2026-09-19,iPhone,Google Calendar: Get Organized,15,0.2,2026-09-27T11:15:23
+2026-09-19,iPhone,Google Health (Fitbit),120,2.0,2026-09-27T11:15:23
+2026-09-19,iPhone,Hinge Dating App: Match & Date,27,0.5,2026-09-27T11:15:23
+2026-09-19,iPhone,Instagram,4080,68.0,2026-09-27T11:15:23
+2026-09-19,iPhone,LinkedIn: Community & Network,41,0.7,2026-09-27T11:15:23
+2026-09-19,iPhone,Mail,180,3.0,2026-09-27T11:15:23
+2026-09-19,iPhone,Messenger,2,0.0,2026-09-27T11:15:23
+2026-09-19,iPhone,Microsoft Outlook,7,0.1,2026-09-27T11:15:23
+2026-09-19,iPhone,Telegram Messenger,1,0.0,2026-09-27T11:15:23
+2026-09-19,iPhone,Tinder Dating App: Date & Chat,180,3.0,2026-09-27T11:15:23
+2026-09-19,iPhone,"Uber - Rides, Eats, Hotels",780,13.0,2026-09-27T11:15:23
+2026-09-19,iPhone,YouTube Music,32,0.5,2026-09-27T11:15:23
+2026-09-19,iPhone,com.apple.PassbookUIService,10,0.2,2026-09-27T11:15:23
+2026-09-20,iPhone,All Usage,8580,143.0,2026-09-27T11:15:23
+2026-09-20,iPhone,App Store,41,0.7,2026-09-27T11:15:23
+2026-09-20,iPhone,Bumble Dating App: Meet & Date,60,1.0,2026-09-27T11:15:23
+2026-09-20,iPhone,Camera,180,3.0,2026-09-27T11:15:23
+2026-09-20,iPhone,Chase Mobile®: Bank & Invest,32,0.5,2026-09-27T11:15:23
+2026-09-20,iPhone,Clock,53,0.9,2026-09-27T11:15:23
+2026-09-20,iPhone,"Discord - Talk, Play, Hang Out",780,13.0,2026-09-27T11:15:23
+2026-09-20,iPhone,Facebook,21,0.3,2026-09-27T11:15:23
+2026-09-20,iPhone,Files,11,0.2,2026-09-27T11:15:23
+2026-09-20,iPhone,Google,1260,21.0,2026-09-27T11:15:23
+2026-09-20,iPhone,Google Docs,25,0.4,2026-09-27T11:15:23
+2026-09-20,iPhone,Google Drive,10,0.2,2026-09-27T11:15:23
+2026-09-20,iPhone,Google Health (Fitbit),24,0.4,2026-09-27T11:15:23
+2026-09-20,iPhone,Google Photos: Backup & Edit,60,1.0,2026-09-27T11:15:23
+2026-09-20,iPhone,GroupMe,60,1.0,2026-09-27T11:15:23
+2026-09-20,iPhone,Hinge Dating App: Match & Date,540,9.0,2026-09-27T11:15:23
+2026-09-20,iPhone,Instagram,2400,40.0,2026-09-27T11:15:23
+2026-09-20,iPhone,Mail,36,0.6,2026-09-27T11:15:23
+2026-09-20,iPhone,Messages,900,15.0,2026-09-27T11:15:23
+2026-09-20,iPhone,Michigan State University,120,2.0,2026-09-27T11:15:23
+2026-09-20,iPhone,Microsoft Outlook,240,4.0,2026-09-27T11:15:23
+2026-09-20,iPhone,Safari,240,4.0,2026-09-27T11:15:23
+2026-09-20,iPhone,Venmo,5,0.1,2026-09-27T11:15:23
+2026-09-20,iPhone,Wallet,180,3.0,2026-09-27T11:15:23
+2026-09-20,iPhone,YouTube Music,60,1.0,2026-09-27T11:15:23
+2026-09-20,iPhone,auth.msu.edu,45,0.8,2026-09-27T11:15:23
+2026-09-20,iPhone,com.apple.LocalAuthenticationUIService,22,0.4,2026-09-27T11:15:23
+2026-09-20,iPhone,com.apple.PassbookUIService,3,0.1,2026-09-27T11:15:23
+2026-09-20,iPhone,google.com,1,0.0,2026-09-27T11:15:23
+2026-09-20,iPhone,student.msu.edu,120,2.0,2026-09-27T11:15:23
+2026-09-21,iPhone,All Usage,13560,226.0,2026-09-27T11:15:23
+2026-09-21,iPhone,Bumble Dating App: Meet & Date,240,4.0,2026-09-27T11:15:23
+2026-09-21,iPhone,Camera,7,0.1,2026-09-27T11:15:23
+2026-09-21,iPhone,Claude by Anthropic,2220,37.0,2026-09-27T11:15:23
+2026-09-21,iPhone,Clock,420,7.0,2026-09-27T11:15:23
+2026-09-21,iPhone,"Discord - Talk, Play, Hang Out",600,10.0,2026-09-27T11:15:23
+2026-09-21,iPhone,Google,960,16.0,2026-09-27T11:15:23
+2026-09-21,iPhone,Google Calendar: Get Organized,6,0.1,2026-09-27T11:15:23
+2026-09-21,iPhone,Google Health (Fitbit),420,7.0,2026-09-27T11:15:23
+2026-09-21,iPhone,GroupMe,12,0.2,2026-09-27T11:15:23
+2026-09-21,iPhone,Hinge Dating App: Match & Date,2700,45.0,2026-09-27T11:15:23
+2026-09-21,iPhone,Instagram,1320,22.0,2026-09-27T11:15:23
+2026-09-21,iPhone,Mail,7,0.1,2026-09-27T11:15:23
+2026-09-21,iPhone,Messages,60,1.0,2026-09-27T11:15:23
+2026-09-21,iPhone,Messenger,120,2.0,2026-09-27T11:15:23
+2026-09-21,iPhone,Microsoft Outlook,300,5.0,2026-09-27T11:15:23
+2026-09-21,iPhone,Telegram Messenger,420,7.0,2026-09-27T11:15:23
+2026-09-21,iPhone,Tinder Dating App: Date & Chat,840,14.0,2026-09-27T11:15:23
+2026-09-21,iPhone,Venmo,1,0.0,2026-09-27T11:15:23
+2026-09-21,iPhone,YouTube,300,5.0,2026-09-27T11:15:23
+2026-09-21,iPhone,YouTube Music,1740,29.0,2026-09-27T11:15:23
+2026-09-21,iPhone,com.apple.LocalAuthenticationUIService,3,0.1,2026-09-27T11:15:23
+2026-09-21,iPhone,com.apple.PassbookUIService,7,0.1,2026-09-27T11:15:23
+2026-09-21,iPhone,com.apple.ScreenshotServicesService,29,0.5,2026-09-27T11:15:23
+2026-09-22,iPhone,All Usage,17040,284.0,2026-09-27T11:15:23
+2026-09-22,iPhone,Bumble Dating App: Meet & Date,16,0.3,2026-09-27T11:15:23
+2026-09-22,iPhone,Calculator,40,0.7,2026-09-27T11:15:23
+2026-09-22,iPhone,Camera,5460,91.0,2026-09-27T11:15:23
+2026-09-22,iPhone,Chase Mobile®: Bank & Invest,1,0.0,2026-09-27T11:15:23
+2026-09-22,iPhone,"Discord - Talk, Play, Hang Out",240,4.0,2026-09-27T11:15:23
+2026-09-22,iPhone,Google,900,15.0,2026-09-27T11:15:23
+2026-09-22,iPhone,Google Calendar: Get Organized,50,0.8,2026-09-27T11:15:23
+2026-09-22,iPhone,Google Health (Fitbit),1380,23.0,2026-09-27T11:15:23
+2026-09-22,iPhone,GroupMe,7,0.1,2026-09-27T11:15:23
+2026-09-22,iPhone,Hinge Dating App: Match & Date,780,13.0,2026-09-27T11:15:23
+2026-09-22,iPhone,Instagram,3180,53.0,2026-09-27T11:15:23
+2026-09-22,iPhone,LinkedIn: Community & Network,180,3.0,2026-09-27T11:15:23
+2026-09-22,iPhone,Mail,38,0.6,2026-09-27T11:15:23
+2026-09-22,iPhone,Messages,240,4.0,2026-09-27T11:15:23
+2026-09-22,iPhone,Messenger,2,0.0,2026-09-27T11:15:23
+2026-09-22,iPhone,Microsoft Outlook,120,2.0,2026-09-27T11:15:23
+2026-09-22,iPhone,Telegram Messenger,60,1.0,2026-09-27T11:15:23
+2026-09-22,iPhone,Tinder Dating App: Date & Chat,840,14.0,2026-09-27T11:15:23
+2026-09-22,iPhone,Wallet,17,0.3,2026-09-27T11:15:23
+2026-09-22,iPhone,YouTube,960,16.0,2026-09-27T11:15:23
+2026-09-22,iPhone,YouTube Music,1680,28.0,2026-09-27T11:15:23
+2026-09-22,iPhone,bearcreekfenceco.com,6,0.1,2026-09-27T11:15:23
+2026-09-22,iPhone,com.apple.LocalAuthenticationUIService,3,0.1,2026-09-27T11:15:23
+2026-09-22,iPhone,com.apple.PassbookUIService,3,0.1,2026-09-27T11:15:23
+2026-09-22,iPhone,ritfitsports.com,0,0.0,2026-09-27T11:15:23
+2026-09-23,iPhone,All Usage,14419,240.3,2026-09-27T11:15:23
+2026-09-23,iPhone,Bumble Dating App: Meet & Date,20,0.3,2026-09-27T11:15:23
+2026-09-23,iPhone,Camera,1920,32.0,2026-09-27T11:15:23
+2026-09-23,iPhone,Clock,12,0.2,2026-09-27T11:15:23
+2026-09-23,iPhone,"Discord - Talk, Play, Hang Out",240,4.0,2026-09-27T11:15:23
+2026-09-23,iPhone,Google,840,14.0,2026-09-27T11:15:23
+2026-09-23,iPhone,Google Calendar: Get Organized,30,0.5,2026-09-27T11:15:23
+2026-09-23,iPhone,Google Health (Fitbit),1680,28.0,2026-09-27T11:15:23
+2026-09-23,iPhone,Hinge Dating App: Match & Date,1080,18.0,2026-09-27T11:15:23
+2026-09-23,iPhone,Instagram,5700,95.0,2026-09-27T11:15:23
+2026-09-23,iPhone,LinkedIn: Community & Network,240,4.0,2026-09-27T11:15:23
+2026-09-23,iPhone,Mail,7,0.1,2026-09-27T11:15:23
+2026-09-23,iPhone,Messenger,3,0.1,2026-09-27T11:15:23
+2026-09-23,iPhone,Microsoft Outlook,60,1.0,2026-09-27T11:15:23
+2026-09-23,iPhone,Safari,17,0.3,2026-09-27T11:15:23
+2026-09-23,iPhone,Telegram Messenger,60,1.0,2026-09-27T11:15:23
+2026-09-23,iPhone,Tinder Dating App: Date & Chat,600,10.0,2026-09-27T11:15:23
+2026-09-23,iPhone,YouTube,720,12.0,2026-09-27T11:15:23
+2026-09-23,iPhone,YouTube Music,720,12.0,2026-09-27T11:15:23
+2026-09-23,iPhone,com.apple.BusinessActionSheet,4,0.1,2026-09-27T11:15:23
+2026-09-23,iPhone,com.apple.ScreenshotServicesService,7,0.1,2026-09-27T11:15:23
+2026-09-23,iPhone,temu.com,6,0.1,2026-09-27T11:15:23
+2026-09-23,iPhone,when2meet.com,15,0.2,2026-09-27T11:15:23
+2026-09-24,iPhone,All Usage,10020,167.0,2026-09-27T11:15:23
+2026-09-24,iPhone,Bumble Dating App: Meet & Date,60,1.0,2026-09-27T11:15:23
+2026-09-24,iPhone,Chase Mobile®: Bank & Invest,300,5.0,2026-09-27T11:15:23
+2026-09-24,iPhone,Claude by Anthropic,1500,25.0,2026-09-27T11:15:23
+2026-09-24,iPhone,Clock,9,0.1,2026-09-27T11:15:23
+2026-09-24,iPhone,"Discord - Talk, Play, Hang Out",360,6.0,2026-09-27T11:15:23
+2026-09-24,iPhone,Google,300,5.0,2026-09-27T11:15:23
+2026-09-24,iPhone,Google Health (Fitbit),840,14.0,2026-09-27T11:15:23
+2026-09-24,iPhone,Hinge Dating App: Match & Date,1920,32.0,2026-09-27T11:15:23
+2026-09-24,iPhone,IMDb: Movies & TV Shows,120,2.0,2026-09-27T11:15:23
+2026-09-24,iPhone,Instagram,1260,21.0,2026-09-27T11:15:23
+2026-09-24,iPhone,LinkedIn: Community & Network,9,0.1,2026-09-27T11:15:23
+2026-09-24,iPhone,Messages,60,1.0,2026-09-27T11:15:23
+2026-09-24,iPhone,Microsoft Outlook,27,0.5,2026-09-27T11:15:23
+2026-09-24,iPhone,Snapchat,11,0.2,2026-09-27T11:15:23
+2026-09-24,iPhone,Telegram Messenger,19,0.3,2026-09-27T11:15:23
+2026-09-24,iPhone,Threads,240,4.0,2026-09-27T11:15:23
+2026-09-24,iPhone,"TikTok - Videos, Shop & LIVE",180,3.0,2026-09-27T11:15:23
+2026-09-24,iPhone,Tinder Dating App: Date & Chat,240,4.0,2026-09-27T11:15:23
+2026-09-24,iPhone,Wallet,42,0.7,2026-09-27T11:15:23
+2026-09-24,iPhone,YouTube,1860,31.0,2026-09-27T11:15:23
+2026-09-24,iPhone,com.apple.LocalAuthenticationUIService,5,0.1,2026-09-27T11:15:23
+2026-09-24,iPhone,com.apple.PassbookUIService,3,0.1,2026-09-27T11:15:23
+2026-09-24,iPhone,com.apple.ScreenshotServicesService,15,0.2,2026-09-27T11:15:23
+2026-09-24,iPhone,tiktok.com,0,0.0,2026-09-27T11:15:23
+2026-09-25,iPhone,All Usage,5520,92.0,2026-09-27T11:15:23
+2026-09-25,iPhone,Amazon Shopping,120,2.0,2026-09-27T11:15:23
+2026-09-25,iPhone,Bumble Dating App: Meet & Date,60,1.0,2026-09-27T11:15:23
+2026-09-25,iPhone,Calculator,47,0.8,2026-09-27T11:15:23
+2026-09-25,iPhone,Camera,20,0.3,2026-09-27T11:15:23
+2026-09-25,iPhone,Claude by Anthropic,240,4.0,2026-09-27T11:15:23
+2026-09-25,iPhone,"Discord - Talk, Play, Hang Out",240,4.0,2026-09-27T11:15:23
+2026-09-25,iPhone,Google,120,2.0,2026-09-27T11:15:23
+2026-09-25,iPhone,Google Calendar: Get Organized,38,0.6,2026-09-27T11:15:23
+2026-09-25,iPhone,Google Health (Fitbit),720,12.0,2026-09-27T11:15:23
+2026-09-25,iPhone,GroupMe,4,0.1,2026-09-27T11:15:23
+2026-09-25,iPhone,Hinge Dating App: Match & Date,1260,21.0,2026-09-27T11:15:23
+2026-09-25,iPhone,Instagram,840,14.0,2026-09-27T11:15:23
+2026-09-25,iPhone,LinkedIn: Community & Network,35,0.6,2026-09-27T11:15:23
+2026-09-25,iPhone,Mail,120,2.0,2026-09-27T11:15:23
+2026-09-25,iPhone,Messages,12,0.2,2026-09-27T11:15:23
+2026-09-25,iPhone,Messenger,45,0.8,2026-09-27T11:15:23
+2026-09-25,iPhone,Microsoft Outlook,15,0.2,2026-09-27T11:15:23
+2026-09-25,iPhone,Threads,15,0.2,2026-09-27T11:15:23
+2026-09-25,iPhone,Tinder Dating App: Date & Chat,240,4.0,2026-09-27T11:15:23
+2026-09-25,iPhone,Wallet,27,0.5,2026-09-27T11:15:23
+2026-09-25,iPhone,YouTube,540,9.0,2026-09-27T11:15:23
+2026-09-25,iPhone,YouTube Music,29,0.5,2026-09-27T11:15:23
+2026-09-25,iPhone,com.apple.PassbookUIService,8,0.1,2026-09-27T11:15:23
+2026-09-26,iPhone,All Usage,12180,203.0,2026-09-27T11:15:23
+2026-09-26,iPhone,Amazon Shopping,21,0.3,2026-09-27T11:15:23
+2026-09-26,iPhone,Bumble Dating App: Meet & Date,59,1.0,2026-09-27T11:15:23
+2026-09-26,iPhone,Calculator,24,0.4,2026-09-27T11:15:23
+2026-09-26,iPhone,Camera,18,0.3,2026-09-27T11:15:23
+2026-09-26,iPhone,Claude by Anthropic,3180,53.0,2026-09-27T11:15:23
+2026-09-26,iPhone,Clock,6,0.1,2026-09-27T11:15:23
+2026-09-26,iPhone,"Discord - Talk, Play, Hang Out",900,15.0,2026-09-27T11:15:23
+2026-09-26,iPhone,Google,240,4.0,2026-09-27T11:15:23
+2026-09-26,iPhone,Google Calendar: Get Organized,3,0.1,2026-09-27T11:15:23
+2026-09-26,iPhone,Google Health (Fitbit),1020,17.0,2026-09-27T11:15:23
+2026-09-26,iPhone,Hinge Dating App: Match & Date,480,8.0,2026-09-27T11:15:23
+2026-09-26,iPhone,Instagram,1260,21.0,2026-09-27T11:15:23
+2026-09-26,iPhone,LinkedIn: Community & Network,19,0.3,2026-09-27T11:15:23
+2026-09-26,iPhone,Mail,34,0.6,2026-09-27T11:15:23
+2026-09-26,iPhone,Messages,4,0.1,2026-09-27T11:15:23
+2026-09-26,iPhone,Microsoft Outlook,9,0.1,2026-09-27T11:15:23
+2026-09-26,iPhone,Safari,6,0.1,2026-09-27T11:15:23
+2026-09-26,iPhone,Tinder Dating App: Date & Chat,600,10.0,2026-09-27T11:15:23
+2026-09-26,iPhone,"Uber - Rides, Eats, Hotels",840,14.0,2026-09-27T11:15:23
+2026-09-26,iPhone,YouTube,1080,18.0,2026-09-27T11:15:23
+2026-09-26,iPhone,temu.com,3,0.1,2026-09-27T11:15:23
+2026-09-27,iPhone,All Usage,960,16.0,2026-09-27T11:15:23
+2026-09-27,iPhone,Bumble Dating App: Meet & Date,45,0.8,2026-09-27T11:15:23
+2026-09-27,iPhone,Clock,8,0.1,2026-09-27T11:15:23
+2026-09-27,iPhone,"Discord - Talk, Play, Hang Out",58,1.0,2026-09-27T11:15:23
+2026-09-27,iPhone,Google Health (Fitbit),120,2.0,2026-09-27T11:15:23
+2026-09-27,iPhone,Hinge Dating App: Match & Date,300,5.0,2026-09-27T11:15:23
+2026-09-27,iPhone,Instagram,25,0.4,2026-09-27T11:15:23
+2026-09-27,iPhone,RENPHO Health,46,0.8,2026-09-27T11:15:23
+2026-09-27,iPhone,Settings,180,3.0,2026-09-27T11:15:23
+2026-09-27,iPhone,Tinder Dating App: Date & Chat,41,0.7,2026-09-27T11:15:23
+2026-09-27,iPhone,Wallet,18,0.3,2026-09-27T11:15:23
