@@ -43,8 +43,7 @@ from pathlib import Path
 import numpy as np
 from PIL import Image
 
-sys.path.insert(0, str(Path(__file__).resolve().parent))
-import screentime_ui_pull as ui  # noqa: E402  (OPEN_PANE, PANE, osascript, parse_date, parse_seconds)
+import screentime_ui_pull as ui  # OPEN_PANE, PANE, osascript, parse_date, parse_seconds
 
 HERE = Path(__file__).resolve().parent
 CSV_DIR, RAW_DIR = HERE / "csv", HERE / "raw" / "hourly"
@@ -128,6 +127,7 @@ def capture(window_id: int, path: Path) -> None:
 
 
 # --------------------------------------------------------------------------- measuring
+
 def crop_group(png: Path, win_xy: tuple[int, int], g_rect: tuple[int, int, int, int]) -> np.ndarray:
     a = np.array(Image.open(png))
     ys, xs = np.where(a[:, :, 3] == 255)               # the opaque window body; the rest is shadow
